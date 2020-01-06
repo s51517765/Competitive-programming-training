@@ -4,6 +4,7 @@
 using namespace std;
 
 // https://atcoder.jp/contests/abc044/tasks/abc044_b
+// 200点
 
 int main()
 {
