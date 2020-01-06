@@ -5,6 +5,7 @@
 using namespace std;
 
 // https://atcoder.jp/contests/abc042/tasks/abc042_a
+// 100点
 
 // 簡単には 入力値をsortして {5 , 5 , 7} になっていればOKだが他の方法を考えてみた
 
