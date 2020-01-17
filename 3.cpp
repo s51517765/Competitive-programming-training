@@ -14,7 +14,7 @@ int main()
     for (int i = 0; i < s.length(); ++i)
     {
         if (s[i] == 'B')
-        {
+        {   //size()のかわりにlength()でも同じ
             t.resize(t.size() - 1); //サイズを一つ小さくすることで最後の1文字を削る
         }
         else
