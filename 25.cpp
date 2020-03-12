@@ -11,9 +11,8 @@ using namespace std;
 int main()
 {
     string s;
-    string ans = "";
+    string ans;
     cin >> s;
     int l = s.length();
-
-    cout << s.substr(0, 1) << l - 2 << s.substr(l - 1) << endl;
+    cout << s.substr(0, 1) + to_string(l - 2) + s.substr(l - 1) << endl;
 }
