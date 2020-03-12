@@ -8,8 +8,6 @@ using namespace std;
 // https://atcoder.jp/contests/abc068/tasks/abc068_b
 // 200点
 
-// 後ろからj文字削除したとき新しい文字列が xyzxyz = xyz + xyz のようになっていること
-
 int main()
 {
     int n;
