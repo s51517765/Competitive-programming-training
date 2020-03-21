@@ -1,5 +1,5 @@
 # Competitive-programming-training
-Competitive programming training with AtCorder past problems
+Competitive programming training with AtCoder past problems
 
 Using c++
 
